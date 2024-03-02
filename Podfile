@@ -6,6 +6,7 @@ target 'PlaygroundProject' do
   use_frameworks!
 
   # Pods for PlaygroundProject
+  pod 'IQKeyboardManagerSwift'
 
   target 'PlaygroundProjectTests' do
     inherit! :search_paths
